@@ -80,4 +80,4 @@ def second():
     plt.show()
 
 
-first()
+second()
